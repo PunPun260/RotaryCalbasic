@@ -64,9 +64,10 @@ the video was taken with PC webcam, 8 megapixel no auto focus, on a pcb ruler
 this video will explain and demonstrate on how to use the device and explain each part of the calculator (with comparation of the regular calcuator)
 
 <video width="320" height="240" controls>
-  <source src="Media/WIN_20260717_18_33_36_Pro.mp4" type="video/mp4">
-Your browser does not support the video tag.
+  <source src="https://youtu.be/KrLcsJHeQHQ" type="video/mp4">
 </video>
+
+[![YouTube](http://i.ytimg.com/vi/KrLcsJHeQHQ)](https://www.youtube.com/watch?v=KrLcsJHeQHQ)
 
 ---
 
