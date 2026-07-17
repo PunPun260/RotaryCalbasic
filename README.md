@@ -71,6 +71,12 @@ this video will explain and demonstrate on how to use the device and explain eac
 
 ---
 
+## Component
+
+![](Media/RCB4.png)
+
+---
+
 ## Future design
 
 ![RCB2](Media/RCB2.png)
